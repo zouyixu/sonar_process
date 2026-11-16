@@ -1,7 +1,7 @@
-
+# directories
 __pycache__/
-
 data/
 
-*.ipynb # notebook
-*.m # matlab
+# files
+*.ipynb
+*.m
